@@ -9,11 +9,11 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This project is a dynamic and interactive resume website showcasing the professional profile of Adrian Andrada. It is designed using HTML, CSS, and JavaScript to provide a visually appealing and user-friendly experience.
 </div>
 
 <br />
@@ -60,10 +60,14 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project - This project is a dynamic and interactive resume website showcasing the professional profile of Adrian Andrada. It is designed using HTML, CSS, and JavaScript to provide a visually appealing and user-friendly experience.
+- Whats the purpose - The purpose of the project is to present Adrian Andrada's educational background, work experience, skills, and career objectives in a structured and engaging manner. It aims to highlight Adrian's qualifications and career aspirations to potential employers or collaborators.
+- What are key components - Profile Section: Includes a brief introduction and a professional photo of Adrian Andrada.
+About Me: Details Adrian's name, age, educational background, and career objectives.
+Work Experience: Provides a timeline of Adrian's past roles, responsibilities, and achievements.
+Skills: Lists Adrian's soft and hard skills relevant to his professional profile.
+Interactive Features: Uses JavaScript for smooth animations, such as timeline item transitions and scroll-based effects, enhancing user interaction and engagement.
+- What technology used and how it is used - HTML: Structures the content of the website, dividing it into sections like Profile, About Me, Experience, and Skills. CSS: Styles the website for a modern and professional look, ensuring visual consistency and responsiveness across different devices. JavaScript: Adds interactivity by implementing animations and scroll effects to make the website more engaging and user-friendly.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -90,7 +94,7 @@ Guiding Question:
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+WD-Seatwork3
 └─ assets
 |   └─ css
 |   |   └─ style.css
