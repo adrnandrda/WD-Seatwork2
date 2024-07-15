@@ -1,1 +1,84 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
 
+header {
+    background: #838a74;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.profile-img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+h1, h2, h3 {
+    margin: 0.5rem 0;
+}
+
+p {
+    line-height: 1.6;
+}
+
+main {
+    padding: 2rem 0;
+}
+
+section {
+    margin: 2rem 0;
+}
+
+#experience .timeline {
+    position: relative;
+    padding: 1rem 0;
+}
+
+.timeline-item {
+    background: white;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.timeline-item:hover {
+    transform: scale(1.05);
+}
+
+.skills-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.skill {
+    flex: 0 0 45%;
+    background: white;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    position: bottom;
+    bottom: 0;
+    width: 100%;
+}
